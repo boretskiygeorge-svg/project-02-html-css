@@ -1,5 +1,36 @@
-/* Выполните оформление по заданию ПЗ №2 */
 body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:coral;
+    background-color: black;
     margin: 0;
-    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    color: chocolate;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.section {
+    background-color:rgb(72, 43, 25);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+}
+
+.section h2 {
+    color: chocolate;
+    margin-top: 0;
+}
+
+.footer {
+    color:coral;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 22px;
 }
